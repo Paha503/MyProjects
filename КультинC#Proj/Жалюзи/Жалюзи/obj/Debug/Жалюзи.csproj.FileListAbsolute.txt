@@ -1,0 +1,8 @@
+C:\Users\Админ\Documents\Visual Studio 2008\Projects\Жалюзи\Жалюзи\bin\Debug\Жалюзи.exe
+C:\Users\Админ\Documents\Visual Studio 2008\Projects\Жалюзи\Жалюзи\bin\Debug\Жалюзи.pdb
+C:\Users\Админ\Documents\Visual Studio 2008\Projects\Жалюзи\Жалюзи\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Админ\Documents\Visual Studio 2008\Projects\Жалюзи\Жалюзи\obj\Debug\Жалюзи.Form1.resources
+C:\Users\Админ\Documents\Visual Studio 2008\Projects\Жалюзи\Жалюзи\obj\Debug\Жалюзи.Properties.Resources.resources
+C:\Users\Админ\Documents\Visual Studio 2008\Projects\Жалюзи\Жалюзи\obj\Debug\Жалюзи.csproj.GenerateResource.Cache
+C:\Users\Админ\Documents\Visual Studio 2008\Projects\Жалюзи\Жалюзи\obj\Debug\Жалюзи.exe
+C:\Users\Админ\Documents\Visual Studio 2008\Projects\Жалюзи\Жалюзи\obj\Debug\Жалюзи.pdb

@@ -1,0 +1,8 @@
+C:\Users\Админ\Documents\Visual Studio 2008\Projects\Фунты-килограммы\Фунты-килограммы\bin\Debug\Фунты-килограммы.exe
+C:\Users\Админ\Documents\Visual Studio 2008\Projects\Фунты-килограммы\Фунты-килограммы\bin\Debug\Фунты-килограммы.pdb
+C:\Users\Админ\Documents\Visual Studio 2008\Projects\Фунты-килограммы\Фунты-килограммы\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Админ\Documents\Visual Studio 2008\Projects\Фунты-килограммы\Фунты-килограммы\obj\Debug\Фунты_килограммы.Form1.resources
+C:\Users\Админ\Documents\Visual Studio 2008\Projects\Фунты-килограммы\Фунты-килограммы\obj\Debug\Фунты_килограммы.Properties.Resources.resources
+C:\Users\Админ\Documents\Visual Studio 2008\Projects\Фунты-килограммы\Фунты-килограммы\obj\Debug\Фунты-килограммы.csproj.GenerateResource.Cache
+C:\Users\Админ\Documents\Visual Studio 2008\Projects\Фунты-килограммы\Фунты-килограммы\obj\Debug\Фунты-килограммы.exe
+C:\Users\Админ\Documents\Visual Studio 2008\Projects\Фунты-килограммы\Фунты-килограммы\obj\Debug\Фунты-килограммы.pdb

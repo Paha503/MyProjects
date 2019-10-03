@@ -1,0 +1,8 @@
+C:\Users\Админ\Documents\Visual Studio 2008\Projects\Цена печати фото\Цена печати фото\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Админ\Documents\Visual Studio 2008\Projects\Цена печати фото\Цена печати фото\obj\Debug\Цена_печати_фото.Form1.resources
+C:\Users\Админ\Documents\Visual Studio 2008\Projects\Цена печати фото\Цена печати фото\obj\Debug\Цена_печати_фото.Properties.Resources.resources
+C:\Users\Админ\Documents\Visual Studio 2008\Projects\Цена печати фото\Цена печати фото\obj\Debug\Цена печати фото.csproj.GenerateResource.Cache
+C:\Users\Админ\Documents\Visual Studio 2008\Projects\Цена печати фото\Цена печати фото\bin\Debug\Цена печати фото.exe
+C:\Users\Админ\Documents\Visual Studio 2008\Projects\Цена печати фото\Цена печати фото\bin\Debug\Цена печати фото.pdb
+C:\Users\Админ\Documents\Visual Studio 2008\Projects\Цена печати фото\Цена печати фото\obj\Debug\Цена печати фото.exe
+C:\Users\Админ\Documents\Visual Studio 2008\Projects\Цена печати фото\Цена печати фото\obj\Debug\Цена печати фото.pdb

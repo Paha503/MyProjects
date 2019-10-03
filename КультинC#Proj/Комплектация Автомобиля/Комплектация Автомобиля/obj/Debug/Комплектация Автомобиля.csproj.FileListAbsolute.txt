@@ -1,0 +1,8 @@
+C:\Users\Админ\Documents\Visual Studio 2008\Projects\Комплектация Автомобиля\Комплектация Автомобиля\bin\Debug\Комплектация Автомобиля.exe
+C:\Users\Админ\Documents\Visual Studio 2008\Projects\Комплектация Автомобиля\Комплектация Автомобиля\bin\Debug\Комплектация Автомобиля.pdb
+C:\Users\Админ\Documents\Visual Studio 2008\Projects\Комплектация Автомобиля\Комплектация Автомобиля\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Админ\Documents\Visual Studio 2008\Projects\Комплектация Автомобиля\Комплектация Автомобиля\obj\Debug\Комплектация_Автомобиля.Form1.resources
+C:\Users\Админ\Documents\Visual Studio 2008\Projects\Комплектация Автомобиля\Комплектация Автомобиля\obj\Debug\Комплектация_Автомобиля.Properties.Resources.resources
+C:\Users\Админ\Documents\Visual Studio 2008\Projects\Комплектация Автомобиля\Комплектация Автомобиля\obj\Debug\Комплектация Автомобиля.csproj.GenerateResource.Cache
+C:\Users\Админ\Documents\Visual Studio 2008\Projects\Комплектация Автомобиля\Комплектация Автомобиля\obj\Debug\Комплектация Автомобиля.exe
+C:\Users\Админ\Documents\Visual Studio 2008\Projects\Комплектация Автомобиля\Комплектация Автомобиля\obj\Debug\Комплектация Автомобиля.pdb
