@@ -1,0 +1,16 @@
+C:\Users\Админ\Documents\Visual Studio 2008\Projects\Калькулятор\Калькулятор\bin\Debug\Калькулятор.exe
+C:\Users\Админ\Documents\Visual Studio 2008\Projects\Калькулятор\Калькулятор\bin\Debug\Калькулятор.pdb
+C:\Users\Админ\Documents\Visual Studio 2008\Projects\Калькулятор\Калькулятор\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Админ\Documents\Visual Studio 2008\Projects\Калькулятор\Калькулятор\obj\Debug\Калькулятор.Form1.resources
+C:\Users\Админ\Documents\Visual Studio 2008\Projects\Калькулятор\Калькулятор\obj\Debug\Калькулятор.Properties.Resources.resources
+C:\Users\Админ\Documents\Visual Studio 2008\Projects\Калькулятор\Калькулятор\obj\Debug\Калькулятор.csproj.GenerateResource.Cache
+C:\Users\Админ\Documents\Visual Studio 2008\Projects\Калькулятор\Калькулятор\obj\Debug\Калькулятор.exe
+C:\Users\Админ\Documents\Visual Studio 2008\Projects\Калькулятор\Калькулятор\obj\Debug\Калькулятор.pdb
+C:\Users\Pahan\Documents\Visual Studio 2008\Projects\Калькулятор\Калькулятор\obj\Debug\Калькулятор.exe
+C:\Users\Pahan\Documents\Visual Studio 2008\Projects\Калькулятор\Калькулятор\obj\Debug\Калькулятор.pdb
+C:\Users\Pahan\Documents\Visual Studio 2008\Projects\Калькулятор\Калькулятор\bin\Debug\Калькулятор.exe
+C:\Users\Pahan\Documents\Visual Studio 2008\Projects\Калькулятор\Калькулятор\bin\Debug\Калькулятор.pdb
+C:\Users\Pahan\Documents\Visual Studio 2008\Projects\Калькулятор\Калькулятор\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pahan\Documents\Visual Studio 2008\Projects\Калькулятор\Калькулятор\obj\Debug\Калькулятор.Form1.resources
+C:\Users\Pahan\Documents\Visual Studio 2008\Projects\Калькулятор\Калькулятор\obj\Debug\Калькулятор.Properties.Resources.resources
+C:\Users\Pahan\Documents\Visual Studio 2008\Projects\Калькулятор\Калькулятор\obj\Debug\Калькулятор.csproj.GenerateResource.Cache
