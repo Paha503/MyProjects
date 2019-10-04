@@ -1,0 +1,8 @@
+C:\Users\Админ\Documents\GitHub\MyProjects\КультинC#Proj\Просмотр Иллюстраций 2\Просмотр Иллюстраций 2\bin\Debug\Просмотр Иллюстраций 2.exe
+C:\Users\Админ\Documents\GitHub\MyProjects\КультинC#Proj\Просмотр Иллюстраций 2\Просмотр Иллюстраций 2\bin\Debug\Просмотр Иллюстраций 2.pdb
+C:\Users\Админ\Documents\GitHub\MyProjects\КультинC#Proj\Просмотр Иллюстраций 2\Просмотр Иллюстраций 2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Админ\Documents\GitHub\MyProjects\КультинC#Proj\Просмотр Иллюстраций 2\Просмотр Иллюстраций 2\obj\Debug\Просмотр_Иллюстраций_2.Form1.resources
+C:\Users\Админ\Documents\GitHub\MyProjects\КультинC#Proj\Просмотр Иллюстраций 2\Просмотр Иллюстраций 2\obj\Debug\Просмотр_Иллюстраций_2.Properties.Resources.resources
+C:\Users\Админ\Documents\GitHub\MyProjects\КультинC#Proj\Просмотр Иллюстраций 2\Просмотр Иллюстраций 2\obj\Debug\Просмотр Иллюстраций 2.csproj.GenerateResource.Cache
+C:\Users\Админ\Documents\GitHub\MyProjects\КультинC#Proj\Просмотр Иллюстраций 2\Просмотр Иллюстраций 2\obj\Debug\Просмотр Иллюстраций 2.exe
+C:\Users\Админ\Documents\GitHub\MyProjects\КультинC#Proj\Просмотр Иллюстраций 2\Просмотр Иллюстраций 2\obj\Debug\Просмотр Иллюстраций 2.pdb
