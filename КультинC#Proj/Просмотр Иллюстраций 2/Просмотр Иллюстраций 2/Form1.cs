@@ -27,9 +27,9 @@ namespace Просмотр_Иллюстраций_2
             DirectoryInfo di;
             di = new DirectoryInfo(Environment.GetFolderPath(Environment.SpecialFolder.MyPictures));
             aPath = di.FullName;
-            FullListBox(aPath);
+            FillListBox(aPath);
         }
-        private Boolean FullListBox(string aPath)
+        private Boolean FillListBox(string aPath)
         {
             DirectoryInfo di =
                 new DirectoryInfo(aPath);
@@ -67,7 +67,72 @@ namespace Просмотр_Иллюстраций_2
                     (double)pictureBox1.Image.Height;
                 mw = (double)pbw /
                     (double)pictureBox1.Image.Width;
+                if (mh < mw)
+                {
+                    pictureBox1.Width = Convert.ToInt16(
+                        pictureBox1.Image.Width * mh);
+                    pictureBox1.Height = pbh;
+                }
+                else
+                {
+                    pictureBox1.Width = pbw;
+                    pictureBox1.Height = Convert.ToInt16(
+                        pictureBox1.Image.Height * mw);
+                }
+            }
+            pictureBox1.Left =
+                pbX + (pbw - pictureBox1.Width) / 2;
+            pictureBox1.Top =
+                pbY + (pbh - pictureBox1.Height) / 2;
+            pictureBox1.Visible = true;
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            if (!button3.Enabled)
+                button3.Enabled = true;
+            if (nImg > 0)
+            {
+                nImg--;
+                ShowPicture(aPath + "\\" + imgList[nImg]);
+                if (nImg == 0)
+                {
+                    button2.Enabled = false;
+                }
             }
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            if (!button2.Enabled)
+                button2.Enabled = true;
+            if (nImg < imgList.Count)
+            {
+                nImg++;
+                ShowPicture(aPath + "\\" + imgList[nImg]);
+                if (nImg == imgList.Count - 1)
+                {
+                    button3.Enabled = false;
+                }
+            }
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            FolderBrowserDialog fb =
+                new FolderBrowserDialog();
+            fb.Description =
+                "Выберите папку,\n" +
+                "в которой находятся иллюстрации";
+            fb.ShowNewFolderButton = false;
+            fb.SelectedPath = aPath;
+            if (fb.ShowDialog() == DialogResult.OK)
+            {
+                aPath = fb.SelectedPath;
+                if (!FillListBox(fb.SelectedPath))
+                    pictureBox1.Image = null;
+            }
+        }
+
     }
 }
