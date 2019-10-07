@@ -1,0 +1,8 @@
+C:\Users\Pahan\Documents\GitHub\MyProjects\КультинC#Proj\Таймер\Таймер\bin\Debug\Таймер.exe
+C:\Users\Pahan\Documents\GitHub\MyProjects\КультинC#Proj\Таймер\Таймер\bin\Debug\Таймер.pdb
+C:\Users\Pahan\Documents\GitHub\MyProjects\КультинC#Proj\Таймер\Таймер\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pahan\Documents\GitHub\MyProjects\КультинC#Proj\Таймер\Таймер\obj\Debug\Таймер.Form1.resources
+C:\Users\Pahan\Documents\GitHub\MyProjects\КультинC#Proj\Таймер\Таймер\obj\Debug\Таймер.Properties.Resources.resources
+C:\Users\Pahan\Documents\GitHub\MyProjects\КультинC#Proj\Таймер\Таймер\obj\Debug\Таймер.csproj.GenerateResource.Cache
+C:\Users\Pahan\Documents\GitHub\MyProjects\КультинC#Proj\Таймер\Таймер\obj\Debug\Таймер.exe
+C:\Users\Pahan\Documents\GitHub\MyProjects\КультинC#Proj\Таймер\Таймер\obj\Debug\Таймер.pdb
