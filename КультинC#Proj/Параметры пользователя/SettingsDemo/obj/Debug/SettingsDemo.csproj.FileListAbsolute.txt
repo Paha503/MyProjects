@@ -1,0 +1,9 @@
+C:\Users\Pahan\Documents\SettingsDemo\SettingsDemo\bin\Debug\Параметры пользователя.exe.config
+C:\Users\Pahan\Documents\SettingsDemo\SettingsDemo\bin\Debug\Параметры пользователя.exe
+C:\Users\Pahan\Documents\SettingsDemo\SettingsDemo\bin\Debug\Параметры пользователя.pdb
+C:\Users\Pahan\Documents\SettingsDemo\SettingsDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pahan\Documents\SettingsDemo\SettingsDemo\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Pahan\Documents\SettingsDemo\SettingsDemo\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Pahan\Documents\SettingsDemo\SettingsDemo\obj\Debug\SettingsDemo.csproj.GenerateResource.Cache
+C:\Users\Pahan\Documents\SettingsDemo\SettingsDemo\obj\Debug\Параметры пользователя.exe
+C:\Users\Pahan\Documents\SettingsDemo\SettingsDemo\obj\Debug\Параметры пользователя.pdb
