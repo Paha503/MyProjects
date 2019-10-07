@@ -1,0 +1,8 @@
+C:\Users\Админ\Documents\GitHub\MyProjects\КультинC#Proj\Секундомер\Секундомер\bin\Debug\Секундомер.exe
+C:\Users\Админ\Documents\GitHub\MyProjects\КультинC#Proj\Секундомер\Секундомер\bin\Debug\Секундомер.pdb
+C:\Users\Админ\Documents\GitHub\MyProjects\КультинC#Proj\Секундомер\Секундомер\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Админ\Documents\GitHub\MyProjects\КультинC#Proj\Секундомер\Секундомер\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Админ\Documents\GitHub\MyProjects\КультинC#Proj\Секундомер\Секундомер\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Админ\Documents\GitHub\MyProjects\КультинC#Proj\Секундомер\Секундомер\obj\Debug\Секундомер.csproj.GenerateResource.Cache
+C:\Users\Админ\Documents\GitHub\MyProjects\КультинC#Proj\Секундомер\Секундомер\obj\Debug\Секундомер.exe
+C:\Users\Админ\Documents\GitHub\MyProjects\КультинC#Proj\Секундомер\Секундомер\obj\Debug\Секундомер.pdb
