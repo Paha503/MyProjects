@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Доход по вкладу", "Доход по вкладу\Доход по вкладу.vcproj", "{7AD39F34-6D04-4B53-B737-6C1F6A36AEF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AD39F34-6D04-4B53-B737-6C1F6A36AEF6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7AD39F34-6D04-4B53-B737-6C1F6A36AEF6}.Debug|Win32.Build.0 = Debug|Win32
+		{7AD39F34-6D04-4B53-B737-6C1F6A36AEF6}.Release|Win32.ActiveCfg = Release|Win32
+		{7AD39F34-6D04-4B53-B737-6C1F6A36AEF6}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
