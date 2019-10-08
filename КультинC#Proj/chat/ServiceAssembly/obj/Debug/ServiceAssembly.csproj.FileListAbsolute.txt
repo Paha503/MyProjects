@@ -1,0 +1,5 @@
+C:\Users\Админ\Documents\GitHub\MyProjects\КультинC#Proj\chat\ServiceAssembly\bin\Debug\ServiceAssembly.dll
+C:\Users\Админ\Documents\GitHub\MyProjects\КультинC#Proj\chat\ServiceAssembly\bin\Debug\ServiceAssembly.pdb
+C:\Users\Админ\Documents\GitHub\MyProjects\КультинC#Proj\chat\ServiceAssembly\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Админ\Documents\GitHub\MyProjects\КультинC#Proj\chat\ServiceAssembly\obj\Debug\ServiceAssembly.dll
+C:\Users\Админ\Documents\GitHub\MyProjects\КультинC#Proj\chat\ServiceAssembly\obj\Debug\ServiceAssembly.pdb

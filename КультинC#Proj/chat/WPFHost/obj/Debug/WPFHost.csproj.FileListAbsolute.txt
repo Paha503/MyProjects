@@ -1,0 +1,4 @@
+C:\Users\Админ\Documents\GitHub\MyProjects\КультинC#Proj\chat\WPFHost\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Админ\Documents\GitHub\MyProjects\КультинC#Proj\chat\WPFHost\obj\Debug\Window1.g.cs
+C:\Users\Админ\Documents\GitHub\MyProjects\КультинC#Proj\chat\WPFHost\obj\Debug\App.g.cs
+C:\Users\Админ\Documents\GitHub\MyProjects\КультинC#Proj\chat\WPFHost\obj\Debug\WPFHost_MarkupCompile.cache
