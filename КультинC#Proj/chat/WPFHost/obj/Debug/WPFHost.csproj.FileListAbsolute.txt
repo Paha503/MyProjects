@@ -2,3 +2,13 @@ C:\Users\Админ\Documents\GitHub\MyProjects\КультинC#Proj\chat\WPFHos
 C:\Users\Админ\Documents\GitHub\MyProjects\КультинC#Proj\chat\WPFHost\obj\Debug\Window1.g.cs
 C:\Users\Админ\Documents\GitHub\MyProjects\КультинC#Proj\chat\WPFHost\obj\Debug\App.g.cs
 C:\Users\Админ\Documents\GitHub\MyProjects\КультинC#Proj\chat\WPFHost\obj\Debug\WPFHost_MarkupCompile.cache
+C:\Users\Админ\Documents\GitHub\MyProjects\КультинC#Proj\chat\WPFHost\obj\Debug\Window1.baml
+C:\Users\Админ\Documents\GitHub\MyProjects\КультинC#Proj\chat\WPFHost\obj\Debug\WPFHost.g.resources
+C:\Users\Админ\Documents\GitHub\MyProjects\КультинC#Proj\chat\WPFHost\obj\Debug\WPFHost.Properties.Resources.resources
+C:\Users\Админ\Documents\GitHub\MyProjects\КультинC#Proj\chat\WPFHost\obj\Debug\WPFHost.csproj.GenerateResource.Cache
+C:\Users\Админ\Documents\GitHub\MyProjects\КультинC#Proj\chat\WPFHost\bin\Debug\WPFHost.exe
+C:\Users\Админ\Documents\GitHub\MyProjects\КультинC#Proj\chat\WPFHost\bin\Debug\WPFHost.pdb
+C:\Users\Админ\Documents\GitHub\MyProjects\КультинC#Proj\chat\WPFHost\bin\Debug\ServiceAssembly.dll
+C:\Users\Админ\Documents\GitHub\MyProjects\КультинC#Proj\chat\WPFHost\bin\Debug\ServiceAssembly.pdb
+C:\Users\Админ\Documents\GitHub\MyProjects\КультинC#Proj\chat\WPFHost\obj\Debug\WPFHost.exe
+C:\Users\Админ\Documents\GitHub\MyProjects\КультинC#Proj\chat\WPFHost\obj\Debug\WPFHost.pdb

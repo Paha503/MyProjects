@@ -15,6 +15,7 @@ using System.ServiceModel;
 using ServiceAssembly;
 using System.ServiceModel.Description;
 using System.Xml;
+using System.Runtime.Serialization;
 
 namespace WPFHost
 {
@@ -114,8 +115,8 @@ namespace WPFHost
             {
                 if (host.State == CommunicationState.Opened)
                 {
-                    LabelStatus.Content = "Opened";
-                    ButtonStop.IsEnabled = true;
+                    labelStatus.Content = "Opened";
+                    buttonStop.IsEnabled = true;
                 }
             }
         }

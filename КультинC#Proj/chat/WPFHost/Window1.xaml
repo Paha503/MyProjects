@@ -46,16 +46,16 @@ x:Class="WPFHost.Window1" Height="300" Width="300" >
          HorizontalAlignment="Right" x:Name="buttonStart"
 
           Click="buttonStart_Click">Start</Button>
-        <Label Height="28" margin="10,0,15,45" 
+        <Label Height="28" Margin="10,0,15,45" 
 
-        verticalalignment="Bottom" x:name="labelStatus">Status</label>
-        <label height="37" margin="10,18,15,0"
+        VerticalAlignment="Bottom" x:Name="labelStatus">Status</Label>
+        <Label Height="37" Margin="10,18,15,0"
 
-         verticalalignment="Top" x:name="labelTitle"
+         VerticalAlignment="Top" x:Name="labelTitle"
 
-          fontfamily="Jokerman" fontsize="20"
+          FontFamily="Jokerman" FontSize="20"
 
-           foreground="White">Chat Service</label>
+           Foreground="White">Chat Service</Label>
     </Grid>
 </Window>
     
