@@ -1,0 +1,8 @@
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Справочная информация\Справочная информация\bin\Debug\Справочная информация.exe
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Справочная информация\Справочная информация\bin\Debug\Справочная информация.pdb
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Справочная информация\Справочная информация\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Справочная информация\Справочная информация\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Справочная информация\Справочная информация\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Справочная информация\Справочная информация\obj\Debug\Справочная информация.csproj.GenerateResource.Cache
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Справочная информация\Справочная информация\obj\Debug\Справочная информация.exe
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Справочная информация\Справочная информация\obj\Debug\Справочная информация.pdb
