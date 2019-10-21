@@ -6,3 +6,11 @@ C:\Users\Pahan\Documents\Visual Studio 2008\Projects\Mili-kilometry\Mili-kilomet
 C:\Users\Pahan\Documents\Visual Studio 2008\Projects\Mili-kilometry\Mili-kilometry\obj\Debug\Mili-kilometry.csproj.GenerateResource.Cache
 C:\Users\Pahan\Documents\Visual Studio 2008\Projects\Mili-kilometry\Mili-kilometry\obj\Debug\Mili-kilometry.exe
 C:\Users\Pahan\Documents\Visual Studio 2008\Projects\Mili-kilometry\Mili-kilometry\obj\Debug\Mili-kilometry.pdb
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Мили - Километры\Mili-kilometry\obj\Debug\Mili-kilometry.exe
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Мили - Километры\Mili-kilometry\obj\Debug\Mili-kilometry.pdb
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Мили - Километры\Mili-kilometry\bin\Debug\Mili-kilometry.exe
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Мили - Километры\Mili-kilometry\bin\Debug\Mili-kilometry.pdb
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Мили - Километры\Mili-kilometry\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Мили - Километры\Mili-kilometry\obj\Debug\Mili_kilometry.Form1.resources
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Мили - Километры\Mili-kilometry\obj\Debug\Mili_kilometry.Properties.Resources.resources
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Мили - Километры\Mili-kilometry\obj\Debug\Mili-kilometry.csproj.GenerateResource.Cache
