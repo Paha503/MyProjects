@@ -62,6 +62,7 @@ namespace Денежный_конвертер
             double доллар;
             double курс;
             double тенге;
+            double перевод;
 
             доллар = Convert.ToDouble(textBox1.Text);
             курс = Convert.ToDouble(textBox2.Text);
@@ -70,6 +71,22 @@ namespace Денежный_конвертер
 
             label3.Text =
                     тенге.ToString("C");
+            MessageBox.Show(
+            "У вас " + тенге.ToString("C")+ "\n"+ "Не хотите ли перевести обратно?",
+            "Сообщение",
+            MessageBoxButtons.OK,
+            MessageBoxIcon.Information,
+            MessageBoxDefaultButton.Button1,
+            MessageBoxOptions.DefaultDesktopOnly);
+            перевод = тенге / доллар;
+            MessageBox.Show(
+            "У вас " +перевод.ToString()+ "$." + "\n" + "Операция закончена",
+            "Сообщение",
+            MessageBoxButtons.OK,
+            MessageBoxIcon.Information,
+            MessageBoxDefaultButton.Button1,
+            MessageBoxOptions.DefaultDesktopOnly);
+            this.Close();
         }
     }
 }
