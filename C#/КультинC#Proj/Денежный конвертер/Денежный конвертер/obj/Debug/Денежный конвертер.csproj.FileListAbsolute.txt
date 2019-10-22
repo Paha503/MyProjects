@@ -6,3 +6,11 @@ C:\Users\Админ\Documents\Visual Studio 2008\Projects\Денежный ко�
 C:\Users\Админ\Documents\Visual Studio 2008\Projects\Денежный конвертер\Денежный конвертер\obj\Debug\Денежный конвертер.csproj.GenerateResource.Cache
 C:\Users\Админ\Documents\Visual Studio 2008\Projects\Денежный конвертер\Денежный конвертер\obj\Debug\Денежный конвертер.exe
 C:\Users\Админ\Documents\Visual Studio 2008\Projects\Денежный конвертер\Денежный конвертер\obj\Debug\Денежный конвертер.pdb
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Денежный конвертер\Денежный конвертер\obj\Debug\Денежный конвертер.exe
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Денежный конвертер\Денежный конвертер\obj\Debug\Денежный конвертер.pdb
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Денежный конвертер\Денежный конвертер\bin\Debug\Денежный конвертер.exe
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Денежный конвертер\Денежный конвертер\bin\Debug\Денежный конвертер.pdb
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Денежный конвертер\Денежный конвертер\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Денежный конвертер\Денежный конвертер\obj\Debug\Денежный_конвертер.Form1.resources
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Денежный конвертер\Денежный конвертер\obj\Debug\Денежный_конвертер.Properties.Resources.resources
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Денежный конвертер\Денежный конвертер\obj\Debug\Денежный конвертер.csproj.GenerateResource.Cache

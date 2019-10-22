@@ -15,7 +15,7 @@ namespace Денежный_конвертер
         {
             InitializeComponent();
         }
-        // ввод денежного курса
+        //событие ввода
         private void textBox1_KeyPress(object sender, KeyPressEventArgs e)
         {
             if ((e.KeyChar >= '0') && (e.KeyChar <= '9'))
@@ -46,7 +46,7 @@ namespace Денежный_конвертер
             }
             e.Handled = true; //запрет ввода остальных символов
         }
-
+        //событие для блокировки кнопки когда символов нет
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
             label3.Text = "";
@@ -57,19 +57,19 @@ namespace Денежный_конвертер
                 button1.Enabled = true;
         }
 
-        private void button1_Click(object sender, EventArgs e) //кнопочка
+        private void button1_Click(object sender, EventArgs e) //сама кнопочка
         {
             double доллар;
             double курс;
-            double рубль;
+            double тенге;
 
             доллар = Convert.ToDouble(textBox1.Text);
             курс = Convert.ToDouble(textBox2.Text);
 
-            рубль = доллар * курс;
+            тенге = доллар * курс;
 
             label3.Text =
-                    рубль.ToString("C");
+                    тенге.ToString("C");
         }
     }
 }

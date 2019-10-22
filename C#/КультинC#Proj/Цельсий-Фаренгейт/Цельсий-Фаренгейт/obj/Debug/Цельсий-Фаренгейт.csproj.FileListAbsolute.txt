@@ -1,0 +1,8 @@
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Цельсий-Фаренгейт\Цельсий-Фаренгейт\bin\Debug\Цельсий-Фаренгейт.exe
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Цельсий-Фаренгейт\Цельсий-Фаренгейт\bin\Debug\Цельсий-Фаренгейт.pdb
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Цельсий-Фаренгейт\Цельсий-Фаренгейт\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Цельсий-Фаренгейт\Цельсий-Фаренгейт\obj\Debug\Фунты_килограммы.Form1.resources
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Цельсий-Фаренгейт\Цельсий-Фаренгейт\obj\Debug\Цельсий_Фаренгейт.Properties.Resources.resources
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Цельсий-Фаренгейт\Цельсий-Фаренгейт\obj\Debug\Цельсий-Фаренгейт.csproj.GenerateResource.Cache
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Цельсий-Фаренгейт\Цельсий-Фаренгейт\obj\Debug\Цельсий-Фаренгейт.exe
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Цельсий-Фаренгейт\Цельсий-Фаренгейт\obj\Debug\Цельсий-Фаренгейт.pdb
