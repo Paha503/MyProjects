@@ -1,4 +1,5 @@
-﻿using System;
+﻿//прога разработана бинарнымНеофитом
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -16,7 +17,7 @@ namespace Комплектация_Автомобиля
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e) //кнопачка
         {
             double сумма;
             double скидка;
@@ -25,15 +26,15 @@ namespace Комплектация_Автомобиля
             сумма = 309000;
             скидка = 0;
 
-            if (checkBox1.Checked)
+            if (checkBox1.Checked) //первая выборка
             {
                сумма += 8390;
             }
-            if (checkBox1.Checked)
+            if (checkBox1.Checked)  //вторая выборка
             {
                 сумма += 5990;
             }
-            if (checkBox1.Checked)
+            if (checkBox1.Checked)  //третяя выборка
             {
                 сумма += 7590;
             }
@@ -54,7 +55,7 @@ namespace Комплектация_Автомобиля
             label3.Text = st;
         }
 
-        private void checkBox1_CheckedChanged(object sender, EventArgs e)
+        private void checkBox1_CheckedChanged(object sender, EventArgs e) //событие вывода третьей метки
         {
             label3.Text = "";
         }
