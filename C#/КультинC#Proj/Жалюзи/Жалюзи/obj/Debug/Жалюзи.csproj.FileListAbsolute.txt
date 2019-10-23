@@ -6,3 +6,5 @@ C:\Users\Админ\Documents\Visual Studio 2008\Projects\Жалюзи\Жалю�
 C:\Users\Админ\Documents\Visual Studio 2008\Projects\Жалюзи\Жалюзи\obj\Debug\Жалюзи.csproj.GenerateResource.Cache
 C:\Users\Админ\Documents\Visual Studio 2008\Projects\Жалюзи\Жалюзи\obj\Debug\Жалюзи.exe
 C:\Users\Админ\Documents\Visual Studio 2008\Projects\Жалюзи\Жалюзи\obj\Debug\Жалюзи.pdb
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Жалюзи\Жалюзи\obj\Debug\Жалюзи.exe
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Жалюзи\Жалюзи\obj\Debug\Жалюзи.pdb
