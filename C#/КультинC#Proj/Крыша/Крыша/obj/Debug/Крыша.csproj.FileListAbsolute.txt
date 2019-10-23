@@ -1,0 +1,16 @@
+C:\Users\Паха\AppData\Local\Temporary Projects\Крыша\bin\Debug\Крыша.exe
+C:\Users\Паха\AppData\Local\Temporary Projects\Крыша\bin\Debug\Крыша.pdb
+C:\Users\Паха\AppData\Local\Temporary Projects\Крыша\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Паха\AppData\Local\Temporary Projects\Крыша\obj\Debug\Крыша.Form1.resources
+C:\Users\Паха\AppData\Local\Temporary Projects\Крыша\obj\Debug\Крыша.Properties.Resources.resources
+C:\Users\Паха\AppData\Local\Temporary Projects\Крыша\obj\Debug\Крыша.csproj.GenerateResource.Cache
+C:\Users\Паха\AppData\Local\Temporary Projects\Крыша\obj\Debug\Крыша.exe
+C:\Users\Паха\AppData\Local\Temporary Projects\Крыша\obj\Debug\Крыша.pdb
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Крыша\Крыша\obj\Debug\Крыша.exe
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Крыша\Крыша\obj\Debug\Крыша.pdb
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Крыша\Крыша\bin\Debug\Крыша.exe
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Крыша\Крыша\bin\Debug\Крыша.pdb
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Крыша\Крыша\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Крыша\Крыша\obj\Debug\Крыша.Form1.resources
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Крыша\Крыша\obj\Debug\Крыша.Properties.Resources.resources
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Крыша\Крыша\obj\Debug\Крыша.csproj.GenerateResource.Cache
