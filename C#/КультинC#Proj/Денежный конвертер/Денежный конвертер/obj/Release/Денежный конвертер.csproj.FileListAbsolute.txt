@@ -1,8 +1,0 @@
-C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Денежный конвертер\Денежный конвертер\bin\Release\Денежный конвертер.exe
-C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Денежный конвертер\Денежный конвертер\bin\Release\Денежный конвертер.pdb
-C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Денежный конвертер\Денежный конвертер\obj\Release\ResolveAssemblyReference.cache
-C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Денежный конвертер\Денежный конвертер\obj\Release\Денежный_конвертер.Form1.resources
-C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Денежный конвертер\Денежный конвертер\obj\Release\Денежный_конвертер.Properties.Resources.resources
-C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Денежный конвертер\Денежный конвертер\obj\Release\Денежный конвертер.csproj.GenerateResource.Cache
-C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Денежный конвертер\Денежный конвертер\obj\Release\Денежный конвертер.exe
-C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Денежный конвертер\Денежный конвертер\obj\Release\Денежный конвертер.pdb
