@@ -32,9 +32,9 @@ namespace Калькулятор
             int x, y;
             this.ClientSize =       //размер приложухи
                 new Size(4 * bw + 5 * dx, 5 * bh + 7 * dy);
-            label1.SetBounds(dx, dy, 4 * bw + 3 * dx, bh); //циферка
-            label1.Text = "0";
-            y = label1.Bottom + dy;
+            textBox1.SetBounds(dx, dy, 4 * bw + 3 * dx, bh); //циферка
+            textBox1.Text = "0";
+            y = textBox1.Bottom + dy;
             for (int i = 0; i < 4; i++)
             {
                 x = dx;
@@ -86,44 +86,44 @@ namespace Калькулятор
             {
                 if (fd)
                 {
-                    label1.Text = btn.Text;
+                    textBox1.Text = btn.Text;
                     fd = false;
                 }
                 else
-                    label1.Text += btn.Text;
+                    textBox1.Text += btn.Text;
                 return;
             }
             if (Convert.ToInt32(btn.Tag) == 0)
             {
-                if (fd) label1.Text = btn.Text;
-                if (label1.Text != "0")
-                    label1.Text += btn.Text;
+                if (fd) textBox1.Text = btn.Text;
+                if (textBox1.Text != "0")
+                    textBox1.Text += btn.Text;
                 return;
             }
             if (Convert.ToInt32(btn.Tag) == -1)
             {
                 if (fd)
                 {
-                    label1.Text = "0,";
+                    textBox1.Text = "0,";
                     fd = false;
                 }
                 else
-                    if (label1.Text.IndexOf(",")==-1)
-                    label1.Text += btn.Text;
+                    if (textBox1.Text.IndexOf(",")==-1)
+                    textBox1.Text += btn.Text;
                 return;
             }
             if (Convert.ToInt32(btn.Tag) == -5)
             {
                 ac = 0;
                 op = 0;
-                label1.Text = "0";
+                textBox1.Text = "0";
                 fd = true;
                 return;
             }
             if (Convert.ToInt32(btn.Tag) < -1)
             {
                 double n;
-                n = Convert.ToDouble(label1.Text);
+                n = Convert.ToDouble(textBox1.Text);
                 if (ac != 0)
                 {
                     switch (op)
@@ -135,7 +135,7 @@ namespace Калькулятор
                         case -2: ac = n;
                             break;
                     }
-                    label1.Text = ac.ToString("N");
+                    textBox1.Text = ac.ToString("N");
                 }
                 else {
                     ac = n;
@@ -143,6 +143,24 @@ namespace Калькулятор
                 op = Convert.ToInt32(btn.Tag);
                 fd = true;
             }
+        }
+
+        private void textBox1_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if ((e.KeyChar >= '0') && (e.KeyChar <= '9'))
+                return;
+            if (e.KeyChar == '.') e.KeyChar = ','; //замена точки на запятую
+
+            if (e.KeyChar == ',')
+            {                                                   //Нельзя ставить запятую первой, нельзя ставить больше одной
+                if ((textBox1.Text.IndexOf(',') != -1) ||
+                    (textBox1.Text.Length == 0))
+                {
+                    e.Handled = true;
+                }
+                return;
+            }
+            e.Handled = true; //запрет на ввод других символов.
         }
     }
 }

@@ -14,3 +14,11 @@ C:\Users\Pahan\Documents\Visual Studio 2008\Projects\Калькулятор\Ка
 C:\Users\Pahan\Documents\Visual Studio 2008\Projects\Калькулятор\Калькулятор\obj\Debug\Калькулятор.Form1.resources
 C:\Users\Pahan\Documents\Visual Studio 2008\Projects\Калькулятор\Калькулятор\obj\Debug\Калькулятор.Properties.Resources.resources
 C:\Users\Pahan\Documents\Visual Studio 2008\Projects\Калькулятор\Калькулятор\obj\Debug\Калькулятор.csproj.GenerateResource.Cache
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Калькулятор\Калькулятор\obj\Debug\Калькулятор.exe
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Калькулятор\Калькулятор\obj\Debug\Калькулятор.pdb
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Калькулятор\Калькулятор\bin\Debug\Калькулятор.exe
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Калькулятор\Калькулятор\bin\Debug\Калькулятор.pdb
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Калькулятор\Калькулятор\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Калькулятор\Калькулятор\obj\Debug\Калькулятор.Form1.resources
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Калькулятор\Калькулятор\obj\Debug\Калькулятор.Properties.Resources.resources
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Калькулятор\Калькулятор\obj\Debug\Калькулятор.csproj.GenerateResource.Cache
