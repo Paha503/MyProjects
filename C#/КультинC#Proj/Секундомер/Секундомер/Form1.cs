@@ -24,13 +24,13 @@ namespace WindowsFormsApplication1
 
         private void button1_Click(object sender, EventArgs e)//кнопка пуск и стоп
         {
-            if (timer1.Enabled)
+            if (timer1.Enabled)//кнопка пуск
             {
                 timer1.Enabled = false;
                 button1.Text = "Пуск";
                 button2.Enabled = true;
             }
-            else
+            else//кнопка стоп
             {
                 timer1.Enabled = true;
                 button1.Text = "Стоп";

@@ -47,7 +47,7 @@ namespace Таймер
                 t1.AddMinutes((double)numericUpDown1.Value);
                 t2 =
                 t2.AddSeconds((double)numericUpDown2.Value);
-		
+		        //добавление времени заданного в таймере
                 groupBox1.Enabled = false;
                 button1.Text = "Стоп";
                 if (t2.Minute < 9)//если минут меньше 9, то они имеют вид 0X
@@ -72,6 +72,7 @@ namespace Таймер
                 groupBox1.Enabled = true;
                 numericUpDown1.Value = t2.Minute;
                 numericUpDown2.Value = t2.Second;
+                //сброс
             }
         }
 
