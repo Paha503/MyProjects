@@ -34,8 +34,8 @@ namespace Просмотр_Иллюстраций_2
             DirectoryInfo di =
                 new DirectoryInfo(aPath);
             FileInfo[] fi = di.GetFiles("*.jpg");
-            imgList.Clear();
-            foreach (FileInfo fc in fi)
+            imgList.Clear();//очистить список
+            foreach (FileInfo fc in fi)//добавить картинки в список
             {
                 imgList.Add(fc.Name);
             }
@@ -60,7 +60,7 @@ namespace Просмотр_Иллюстраций_2
                 PictureBoxSizeMode.AutoSize;
             pictureBox1.Image =
                 new Bitmap(aPicture);
-            if ((pictureBox1.Image.Width > pbw) || //подгон картинки под pictureBox
+            if ((pictureBox1.Image.Width > pbw) || //подгон картинки под pictureBox если она не соответсвует требуемым параметрам
                 (pictureBox1.Image.Height > pbh))
             {
                 pictureBox1.SizeMode =
@@ -92,12 +92,12 @@ namespace Просмотр_Иллюстраций_2
         private void button2_Click(object sender, EventArgs e)//назад
         {
             if (!button3.Enabled)
-                button3.Enabled = true;
+                button3.Enabled = true;//если кнопка вперед была недоступна, то сделать доступной
             if (nImg > 0)
             {
-                nImg--;
-                ShowPicture(aPath + "\\" + imgList[nImg]);
-                if (nImg == 0)
+                nImg--;//уменьшает номер картинки
+                ShowPicture(aPath + "\\" + imgList[nImg]);//вывод картинки в pictureBox
+                if (nImg == 0)//сделать недоступной кнопку назад если номер картинки равен нулю
                 {
                     button2.Enabled = false;
                 }
@@ -107,12 +107,12 @@ namespace Просмотр_Иллюстраций_2
         private void button3_Click(object sender, EventArgs e)//вперед
         {
             if (!button2.Enabled)
-                button2.Enabled = true;
-            if (nImg < imgList.Count)
+                button2.Enabled = true;//если кнопка назад была недоступна, то сделать доступной
+            if (nImg < imgList.Count)//если номер картинки меньше общего количества их в списке
             {
-                nImg++;
-                ShowPicture(aPath + "\\" + imgList[nImg]);
-                if (nImg == imgList.Count - 1)
+                nImg++;//увеличивает номер картинки
+                ShowPicture(aPath + "\\" + imgList[nImg]);//вывод картинки в pictureBox
+                if (nImg == imgList.Count - 1)//сделать недоступной кнопку вперед если номер картинки отрицательный
                 {
                     button3.Enabled = false;
                 }
@@ -122,16 +122,16 @@ namespace Просмотр_Иллюстраций_2
         private void button1_Click(object sender, EventArgs e)//обзор
         {
             FolderBrowserDialog fb =
-                new FolderBrowserDialog();
+                new FolderBrowserDialog();//окно "обзора"
             fb.Description =
                 "Выберите папку,\n" +
                 "в которой находятся иллюстрации";
-            fb.ShowNewFolderButton = false;
+            fb.ShowNewFolderButton = false;//в окне нельзя создать папку
             fb.SelectedPath = aPath;//показывается стартовый каталог
             if (fb.ShowDialog() == DialogResult.OK)
             {
                 aPath = fb.SelectedPath;//стартовый каталог меняется на выбранный
-                if (!FillListBox(fb.SelectedPath))
+                if (!FillListBox(fb.SelectedPath))//если нет картинок
                     pictureBox1.Image = null;
             }
         }
