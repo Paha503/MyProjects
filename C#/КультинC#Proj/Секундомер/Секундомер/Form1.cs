@@ -49,20 +49,20 @@ namespace WindowsFormsApplication1
         {
             if (label3.Visible)//двоеточие мигает с интервалом в полсекунды
             {
-                if (s < 59)
+                if (s < 59)//до тех пор пока секунды не равны 59, они будут увеличиваться
                 {
                     s++;
-                    if (s < 10)
+                    if (s < 10)//если секунд меньше чем 10, то нумерация будет вида 0X
                         label2.Text = "0" + s.ToString();
                     else
                         label2.Text = s.ToString();
                 }
                 else
                 {
-                    if (m < 59)
+                    if (m < 59)//до тех пор пока минуты не равны 59, они будут увеличиваться
                     {
                         m++;
-                        if (m < 10)
+                        if (m < 10)//если минут меньше чем 10, то нумерация будет вида 0X
                             label1.Text = "0" + s.ToString();
                         else
                             label1.Text = s.ToString();

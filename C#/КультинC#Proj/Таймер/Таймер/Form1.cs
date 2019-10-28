@@ -30,31 +30,32 @@ namespace Таймер
         private void numericUpDown1_ValueChanged(object sender, EventArgs e)//позволяет нажать кнопку пуск когда значения минут и секунд поставлены
         {
             if ((numericUpDown1.Value == 0) &&
-                (numericUpDown2.Value == 0))
+                (numericUpDown2.Value == 0))//значения не проставлены
                 button1.Enabled = false;
             else
-                button1.Enabled = true;
+                button1.Enabled = true;//значения проставлены
         }
 
         private void button1_Click(object sender, EventArgs e)//пуск
         {
-            if (!timer1.Enabled)
+            if (!timer1.Enabled)//таймер не работает
             {
                 t1 = new DateTime(DateTime.Now.Year,
                     DateTime.Now.Month, DateTime.Now.Day);
+		//отсчет от текущего времени
                 t2 =
                 t1.AddMinutes((double)numericUpDown1.Value);
                 t2 =
                 t2.AddSeconds((double)numericUpDown2.Value);
-
+		
                 groupBox1.Enabled = false;
                 button1.Text = "Стоп";
-                if (t2.Minute < 9)
+                if (t2.Minute < 9)//если минут меньше 9, то они имеют вид 0X
                     label1.Text =
                     "0" + t2.Minute.ToString() + "";
                 else
                     label1.Text = t2.Minute.ToString() + ":";
-                if (t2.Second < 9)
+                if (t2.Second < 9)//если секунд меньше 9, то они имеют вид 0X
                     label1.Text += "0" +
                     t2.Second.ToString();
                 else
@@ -76,16 +77,16 @@ namespace Таймер
 
         private void timer1_Tick(object sender, EventArgs e)//сигнал самого таймера
         {
-            t2 = t2.AddSeconds(-1);
-            if (t2.Minute < 9)
+            t2 = t2.AddSeconds(-1);//время убавляется
+            if (t2.Minute < 9)//если минут меньше 9, то они имеют вид 0X
                 label1.Text = "0" + t2.Minute.ToString() + ":";
             else
                 label1.Text = t2.Minute.ToString() + ":";
-            if (t2.Second < 9)
+            if (t2.Second < 9)//если секунд меньше 9, то они имеют вид 0X
                 label1.Text += "0" + t2.Second.ToString();
             else
                 label1.Text += t2.Second.ToString();
-            if (Equals(t1, t2))
+            if (Equals(t1, t2))//когда минуты и секунды приравнились к нулю, таймер истек
             {
                 timer1.Enabled = false;
                 MessageBox.Show(
@@ -97,6 +98,7 @@ namespace Таймер
                 groupBox1.Enabled = true;
                 numericUpDown1.Value = 0;
                 numericUpDown2.Value = 0;
+		//сброс
             }
         }
 
