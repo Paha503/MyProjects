@@ -83,10 +83,11 @@ namespace Просмотр_Иллюстраций_2
                 }
             }
             pictureBox1.Left =  //разместить картинку в центре
-                pbX + (pbw - pictureBox1.Width) / 2;
+                    pbX + (pbw - pictureBox1.Width) / 2;//(pbw - pictureBox1.Width)=разница
             pictureBox1.Top =
-                pbY + (pbh - pictureBox1.Height) / 2;
+                pbY + (pbh - pictureBox1.Height) / 2;//(pbh - pictureBox1.Height)=разница
             pictureBox1.Visible = true;
+         
         }
 
         private void button2_Click(object sender, EventArgs e)//назад
