@@ -127,10 +127,10 @@ namespace Просмотр_Иллюстраций_2
                 "Выберите папку,\n" +
                 "в которой находятся иллюстрации";
             fb.ShowNewFolderButton = false;
-            fb.SelectedPath = aPath;
+            fb.SelectedPath = aPath;//показывается стартовый каталог
             if (fb.ShowDialog() == DialogResult.OK)
             {
-                aPath = fb.SelectedPath;
+                aPath = fb.SelectedPath;//стартовый каталог меняется на выбранный
                 if (!FillListBox(fb.SelectedPath))
                     pictureBox1.Image = null;
             }
