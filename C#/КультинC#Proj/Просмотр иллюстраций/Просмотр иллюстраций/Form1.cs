@@ -12,9 +12,9 @@ namespace Просмотр_иллюстраций
 {
     public partial class Form1 : Form
     {
-        int pbw, pbh,
-            pbX, pbY;
-        string aPath;
+        int pbw, pbh,//размер pictureBox
+            pbX, pbY;//положение pictureBox
+        string aPath;//путь
 
         public Form1()
         {
@@ -23,14 +23,14 @@ namespace Просмотр_иллюстраций
             pbw = pictureBox1.Width;
             pbX = pictureBox1.Location.X;
             pbY = pictureBox1.Location.Y;
-            listBox1.Sorted = true;
+            listBox1.Sorted = true;//сортировка listBox в алфавитном порядке
             DirectoryInfo di;
             di = new DirectoryInfo(Environment.GetFolderPath(Environment.SpecialFolder.MyPictures));
             aPath = di.FullName;
             label1.Text = aPath;
-            FillListBox(aPath);
+            FillListBox(aPath);//сформировать список картинок
         }
-        private Boolean FillListBox(string aPath)
+        private Boolean FillListBox(string aPath)//заполнение listBox картинками
         {
             DirectoryInfo di =
                 new DirectoryInfo(aPath);
@@ -49,7 +49,7 @@ namespace Просмотр_иллюстраций
             }
         }
 
-        private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
+        private void listBox1_SelectedIndexChanged(object sender, EventArgs e)//выбор картинки в listBox
         {
             double mh, mw;
             pictureBox1.Visible = false;
@@ -89,7 +89,7 @@ namespace Просмотр_иллюстраций
             pictureBox1.Visible = true;
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)//кнопка Обзор
         {
             FolderBrowserDialog fb
                 = new FolderBrowserDialog();
