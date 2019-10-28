@@ -11,23 +11,23 @@ namespace Таймер
 {
     public partial class Form1 : Form
     {
-        private DateTime t1;
-        private DateTime t2;
+        private DateTime t1;//запуск таймера
+        private DateTime t2;//когда сработало
         public Form1()
         {
             InitializeComponent();
-            numericUpDown1.Maximum = 59;
+            numericUpDown1.Maximum = 59;//больше 59 минут ставить нельзя
             numericUpDown1.Minimum = 0;
             numericUpDown1.TabStop = false;
 
-            numericUpDown2.Maximum = 59;
+            numericUpDown2.Maximum = 59;//больше 59 секунд ставить нельзя
             numericUpDown2.Minimum = 0;
             numericUpDown2.TabStop = false;
 
-            button1.Enabled = false;
+            button1.Enabled = false;//кнопка пуск недоступна для клика
         }
 
-        private void numericUpDown1_ValueChanged(object sender, EventArgs e)
+        private void numericUpDown1_ValueChanged(object sender, EventArgs e)//позволяет нажать кнопку пуск когда значения минут и секунд поставлены
         {
             if ((numericUpDown1.Value == 0) &&
                 (numericUpDown2.Value == 0))
@@ -36,7 +36,7 @@ namespace Таймер
                 button1.Enabled = true;
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)//пуск
         {
             if (!timer1.Enabled)
             {
@@ -59,12 +59,13 @@ namespace Таймер
                     t2.Second.ToString();
                 else
                     label1.Text += t2.Second.ToString();
-                timer1.Interval = 1000;
+                timer1.Interval = 1000;//сигнал передается каждую секунду
                 timer1.Enabled = true;
                 groupBox1.Visible = false;
             }
             else
             {
+                //когда таймер закончился
                 timer1.Enabled = false;
                 button1.Text = "Пуск";
                 groupBox1.Enabled = true;
@@ -73,7 +74,7 @@ namespace Таймер
             }
         }
 
-        private void timer1_Tick(object sender, EventArgs e)
+        private void timer1_Tick(object sender, EventArgs e)//сигнал самого таймера
         {
             t2 = t2.AddSeconds(-1);
             if (t2.Minute < 9)
