@@ -14,51 +14,52 @@ namespace WindowsFormsApplication1
         public Form1()
         {
             InitializeComponent();
-            helpProvider1.HelpNamespace = "npv.chm";
+
+            helpProvider1.HelpNamespace = "npv.chm";//файл справки приложения
             helpProvider1.SetHelpNavigator(this,
                             HelpNavigator.Topic);
             helpProvider1.SetShowHelp(this, true);
             helpProvider1.SetHelpKeyword(textBox1,
-                                        "npv_02.htm");
+                                        "npv_02.htm");//раздел справки для textBox1
             helpProvider1.SetHelpNavigator(textBox1,
                                           HelpNavigator.Topic);
             helpProvider1.SetShowHelp(textBox1, true);
             helpProvider1.SetHelpKeyword(textBox2,
-                                        "npv_03.htm");
+                                        "npv_03.htm");//раздел справки для textBox2
             helpProvider1.SetHelpNavigator(textBox2,
                                           HelpNavigator.Topic);
             helpProvider1.SetShowHelp(textBox2, true);
             helpProvider1.SetHelpKeyword(textBox3,
-                                        "npv_04.htm");
+                                        "npv_04.htm");//раздел справки для textBox3
             helpProvider1.SetHelpNavigator(textBox3,
                                           HelpNavigator.Topic);
             helpProvider1.SetShowHelp(textBox3, true);
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void button2_Click(object sender, EventArgs e)//справка
         {
             Help.ShowHelp(this, helpProvider1.HelpNamespace,
-                  "npv_01.htm");
+                  "npv_01.htm");//вывод справки при нажатии на кнопку
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)//вычислить Чистый дискрементированный доход
         {
-            double p = 0;
-            double r = 0;
-            double d = 0;
-            double npv = 0;
-            try
+            double p = 0; //Финансовые результаты
+            double r = 0;//Финансовые затраты
+            double d = 0;//Ставка дисконтирования
+            double npv = 0;//Чистый дискрементированный доход
+            try//получение Чистого дискрементированного дохода
             {
-                p = Convert.ToDouble(textBox1.Text);
+                p = Convert.ToDouble(textBox1.Text);//взять значение из textBox и перевести в дробный тип
                 r = Convert.ToDouble(textBox2.Text);
                 d = Convert.ToDouble(textBox3.Text) / 100;
 
-                npv = (p - r) / (1.0 + d);
+                npv = (p - r) / (1.0 + d);//формула нахождения Чистого дискрементированного дохода
                 label4.Text =
                     "Чистый дискрементированный доход (NPV) = " +
-                    npv.ToString("c");
+                    npv.ToString("c");//вывод в денежном формате
             }
-            catch
+            catch//исключение (его нет)
             { 
             }
         }
