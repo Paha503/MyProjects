@@ -1,0 +1,8 @@
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Справочная информация\NPV\bin\Debug\NPV.exe
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Справочная информация\NPV\bin\Debug\NPV.pdb
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Справочная информация\NPV\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Справочная информация\NPV\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Справочная информация\NPV\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Справочная информация\NPV\obj\Debug\NPV.csproj.GenerateResource.Cache
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Справочная информация\NPV\obj\Debug\NPV.exe
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Справочная информация\NPV\obj\Debug\NPV.pdb

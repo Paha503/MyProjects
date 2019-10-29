@@ -20,65 +20,47 @@ namespace WindowsFormsApplication1
             helpProvider1.SetHelpNavigator(this, HelpNavigator.Topic);
             helpProvider1.SetShowHelp(this, true);
 
-            // chm-файл получается путем компиляции htm-файлов,
-            // в которых находится справочная информация.  
-            // Обычно каждый раздел справочной информации
-            // помещают в отдельный файл. В дальнейшем имя htm-файла
-            // используется в качестве идентификатора раздела
-            // справочной информации.
 
-            // задать раздел справки 
-            // для textBox1 - Финансовые результаты
-            helpProvider1.SetHelpKeyword(textBox1, "npv_02.htm");
+            helpProvider1.SetHelpKeyword(textBox1, "npv_02.htm");//раздел справки textBox1
             helpProvider1.SetHelpNavigator(textBox1, HelpNavigator.Topic);
             helpProvider1.SetShowHelp(textBox1, true);
 
-
-            // задать раздел справки 
-            // для textBox2 - Финансовые затраты
-            helpProvider1.SetHelpKeyword(textBox2, "npv_03.htm");
+            helpProvider1.SetHelpKeyword(textBox2, "npv_03.htm");//раздел справки textBox2
             helpProvider1.SetHelpNavigator(textBox2, HelpNavigator.Topic);
             helpProvider1.SetShowHelp(textBox2, true);
 
-            // задать раздел справки 
-            // для textBox3 - Ставка дисконтирования
-            helpProvider1.SetHelpKeyword(textBox3, "npv_04.htm");
+            helpProvider1.SetHelpKeyword(textBox3, "npv_04.htm");//раздел справки textBox3
             helpProvider1.SetHelpNavigator(textBox3, HelpNavigator.Topic);
             helpProvider1.SetShowHelp(textBox3, true);
 
 
         }
 
-        // щелчок на кнопке Расчет
-        private void button1_Click(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)//вычислить Чистый дискрементированный доход
         {
-            double p = 0; // поступления от продаж
-            double r = 0; // расходы
-            double d = 0; // ставка дисконтирования
-
-            double npv = 0; // чистый дисконтированный доход
-
-            try
+            double p = 0; //Финансовые результаты
+            double r = 0;//Финансовые затраты
+            double d = 0;//Ставка дисконтирования
+            double npv = 0;//Чистый дискрементированный доход
+            try//получение Чистого дискрементированного дохода
             {
-                p = Convert.ToDouble(textBox1.Text);
+                p = Convert.ToDouble(textBox1.Text);//взять значение из textBox и перевести в дробный тип
                 r = Convert.ToDouble(textBox2.Text);
                 d = Convert.ToDouble(textBox3.Text) / 100;
 
-                npv = (p - r) / (1.0 + d);
-
-                label4.Text = "Чистый дисконтированный доход (NPV) =  " +
-                    npv.ToString("c");
+                npv = (p - r) / (1.0 + d);//формула нахождения Чистого дискрементированного дохода
+                label4.Text =
+                    "Чистый дискрементированный доход (NPV) = " +
+                    npv.ToString("c");//вывод в денежном формате
             }
-            catch 
+            catch//исключение (его нет)
             {
-                //MessageBox.Show("Ощибка исходных данных", "Расчет NPV",
-                //    MessageBoxButtons.OK, MessageBoxIcon.Warning);
             }
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void button2_Click(object sender, EventArgs e)//справка
         {
-            Help.ShowHelp(this, helpProvider1.HelpNamespace, "npv_01.htm");
+            Help.ShowHelp(this, helpProvider1.HelpNamespace, "npv_01.htm");//вывод справки при нажатии на кнопку
         }
 
     }
