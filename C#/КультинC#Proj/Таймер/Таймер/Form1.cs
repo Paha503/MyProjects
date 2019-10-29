@@ -17,12 +17,12 @@ namespace Таймер
         {
             InitializeComponent();
             numericUpDown1.Maximum = 59;//больше 59 минут ставить нельзя
-            numericUpDown1.Minimum = 0;
-            numericUpDown1.TabStop = false;
+            numericUpDown1.Minimum = 0;//ОТРИЦАТЕЛЬНОГО ЧИСЛА НЕ МОЖЕТ БЫТЬ
+            numericUpDown1.TabStop = false;//чтобы после запуска курсор не мигал
 
             numericUpDown2.Maximum = 59;//больше 59 секунд ставить нельзя
-            numericUpDown2.Minimum = 0;
-            numericUpDown2.TabStop = false;
+            numericUpDown2.Minimum = 0;//ОТРИЦАТЕЛЬНОГО ЧИСЛА НЕ МОЖЕТ БЫТЬ
+            numericUpDown2.TabStop = false;//чтобы после запуска курсор не мигал
 
             button1.Enabled = false;//кнопка пуск недоступна для клика
         }
