@@ -15,11 +15,9 @@ namespace WindowsFormsApplication1
         {
             InitializeComponent();
 
-            // файл справки
-            helpProvider1.HelpNamespace = "npv.chm";
+            helpProvider1.HelpNamespace = "npv.chm";// файл справки
             helpProvider1.SetHelpNavigator(this, HelpNavigator.Topic);
             helpProvider1.SetShowHelp(this, true);
-
 
             helpProvider1.SetHelpKeyword(textBox1, "npv_02.htm");//раздел справки textBox1
             helpProvider1.SetHelpNavigator(textBox1, HelpNavigator.Topic);
