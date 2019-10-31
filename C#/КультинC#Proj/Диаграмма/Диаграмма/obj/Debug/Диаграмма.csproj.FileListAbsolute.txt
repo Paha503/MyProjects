@@ -1,0 +1,8 @@
+C:\Users\Паха\Desktop\Диаграмма\Диаграмма\bin\Debug\Диаграмма.exe
+C:\Users\Паха\Desktop\Диаграмма\Диаграмма\bin\Debug\Диаграмма.pdb
+C:\Users\Паха\Desktop\Диаграмма\Диаграмма\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Паха\Desktop\Диаграмма\Диаграмма\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Паха\Desktop\Диаграмма\Диаграмма\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Паха\Desktop\Диаграмма\Диаграмма\obj\Debug\Диаграмма.csproj.GenerateResource.Cache
+C:\Users\Паха\Desktop\Диаграмма\Диаграмма\obj\Debug\Диаграмма.exe
+C:\Users\Паха\Desktop\Диаграмма\Диаграмма\obj\Debug\Диаграмма.pdb

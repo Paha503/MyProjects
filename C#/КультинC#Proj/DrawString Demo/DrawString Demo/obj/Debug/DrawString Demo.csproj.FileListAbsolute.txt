@@ -1,0 +1,8 @@
+C:\Users\Админ\Documents\Visual Studio 2008\Projects\DrawString Demo\DrawString Demo\bin\Debug\DrawString Demo.exe
+C:\Users\Админ\Documents\Visual Studio 2008\Projects\DrawString Demo\DrawString Demo\bin\Debug\DrawString Demo.pdb
+C:\Users\Админ\Documents\Visual Studio 2008\Projects\DrawString Demo\DrawString Demo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Админ\Documents\Visual Studio 2008\Projects\DrawString Demo\DrawString Demo\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Админ\Documents\Visual Studio 2008\Projects\DrawString Demo\DrawString Demo\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Админ\Documents\Visual Studio 2008\Projects\DrawString Demo\DrawString Demo\obj\Debug\DrawString Demo.csproj.GenerateResource.Cache
+C:\Users\Админ\Documents\Visual Studio 2008\Projects\DrawString Demo\DrawString Demo\obj\Debug\DrawString Demo.exe
+C:\Users\Админ\Documents\Visual Studio 2008\Projects\DrawString Demo\DrawString Demo\obj\Debug\DrawString Demo.pdb
