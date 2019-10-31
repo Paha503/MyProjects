@@ -1,0 +1,8 @@
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Котировки\Котировки\bin\Debug\Котировки.exe
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Котировки\Котировки\bin\Debug\Котировки.pdb
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Котировки\Котировки\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Котировки\Котировки\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Котировки\Котировки\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Котировки\Котировки\obj\Debug\Котировки.csproj.GenerateResource.Cache
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Котировки\Котировки\obj\Debug\Котировки.exe
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Котировки\Котировки\obj\Debug\Котировки.pdb

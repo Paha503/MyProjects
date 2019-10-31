@@ -1,0 +1,9 @@
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Редактор текста\Редактор текста\bin\Debug\Редактор текста.exe
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Редактор текста\Редактор текста\bin\Debug\Редактор текста.pdb
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Редактор текста\Редактор текста\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Редактор текста\Редактор текста\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Редактор текста\Редактор текста\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Редактор текста\Редактор текста\obj\Debug\Редактор текста.csproj.GenerateResource.Cache
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Редактор текста\Редактор текста\obj\Debug\Редактор текста.exe
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Редактор текста\Редактор текста\obj\Debug\Редактор текста.pdb
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Редактор текста\Редактор текста\obj\Debug\WindowsFormsApplication1.Form2.resources
