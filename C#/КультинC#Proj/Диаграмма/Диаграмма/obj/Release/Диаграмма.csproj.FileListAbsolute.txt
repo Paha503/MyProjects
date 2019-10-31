@@ -1,0 +1,8 @@
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Диаграмма\Диаграмма\bin\Release\Диаграмма.exe
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Диаграмма\Диаграмма\bin\Release\Диаграмма.pdb
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Диаграмма\Диаграмма\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Диаграмма\Диаграмма\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Диаграмма\Диаграмма\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Диаграмма\Диаграмма\obj\Release\Диаграмма.csproj.GenerateResource.Cache
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Диаграмма\Диаграмма\obj\Release\Диаграмма.exe
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Диаграмма\Диаграмма\obj\Release\Диаграмма.pdb

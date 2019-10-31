@@ -58,7 +58,7 @@ namespace WindowsFormsApplication1
             дата = dateTimePicker1.Value;//присвоить переменной дата дату из компонента dateTimePicker
             курс = System.Convert.ToDouble(textBox1.Text);//преобразовать строки из textBox в дробный тип и присвоить переменной курс
             
-            System.IO.FileInfo fi = new System.IO.FileInfo(Application.StartupPath + "\\usd.txt");//получить данные из файла usd.txt и присвоить переменной fi
+            System.IO.FileInfo fi = new System.IO.FileInfo(Application.StartupPath + "\\usd.dat");//получить данные из файла usd.txt и присвоить переменной fi
             System.IO.StreamWriter sw;//определяем переменную sw как поток для записи данных
 
             if (fi.Exists)//если данные есть, то открываем поток для записи в файл

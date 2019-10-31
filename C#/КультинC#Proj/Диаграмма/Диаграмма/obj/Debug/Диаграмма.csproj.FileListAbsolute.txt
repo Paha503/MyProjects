@@ -6,3 +6,11 @@ C:\Users\Паха\Desktop\Диаграмма\Диаграмма\obj\Debug\Window
 C:\Users\Паха\Desktop\Диаграмма\Диаграмма\obj\Debug\Диаграмма.csproj.GenerateResource.Cache
 C:\Users\Паха\Desktop\Диаграмма\Диаграмма\obj\Debug\Диаграмма.exe
 C:\Users\Паха\Desktop\Диаграмма\Диаграмма\obj\Debug\Диаграмма.pdb
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Диаграмма\Диаграмма\obj\Debug\Диаграмма.exe
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Диаграмма\Диаграмма\obj\Debug\Диаграмма.pdb
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Диаграмма\Диаграмма\bin\Debug\Диаграмма.exe
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Диаграмма\Диаграмма\bin\Debug\Диаграмма.pdb
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Диаграмма\Диаграмма\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Диаграмма\Диаграмма\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Диаграмма\Диаграмма\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Диаграмма\Диаграмма\obj\Debug\Диаграмма.csproj.GenerateResource.Cache
