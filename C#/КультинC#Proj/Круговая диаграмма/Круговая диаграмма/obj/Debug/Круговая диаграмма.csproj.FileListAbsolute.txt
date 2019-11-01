@@ -1,0 +1,7 @@
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Круговая диаграмма\Круговая диаграмма\bin\Debug\Круговая диаграмма.exe
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Круговая диаграмма\Круговая диаграмма\bin\Debug\Круговая диаграмма.pdb
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Круговая диаграмма\Круговая диаграмма\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Круговая диаграмма\Круговая диаграмма\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Круговая диаграмма\Круговая диаграмма\obj\Debug\Круговая диаграмма.csproj.GenerateResource.Cache
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Круговая диаграмма\Круговая диаграмма\obj\Debug\Круговая диаграмма.exe
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Круговая диаграмма\Круговая диаграмма\obj\Debug\Круговая диаграмма.pdb

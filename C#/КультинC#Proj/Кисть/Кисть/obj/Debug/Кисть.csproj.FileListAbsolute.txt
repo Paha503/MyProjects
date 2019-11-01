@@ -1,0 +1,8 @@
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Кисть\Кисть\bin\Debug\Кисть.exe
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Кисть\Кисть\bin\Debug\Кисть.pdb
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Кисть\Кисть\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Кисть\Кисть\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Кисть\Кисть\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Кисть\Кисть\obj\Debug\Кисть.csproj.GenerateResource.Cache
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Кисть\Кисть\obj\Debug\Кисть.exe
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Кисть\Кисть\obj\Debug\Кисть.pdb
