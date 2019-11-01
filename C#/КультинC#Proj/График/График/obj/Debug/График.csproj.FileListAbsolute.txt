@@ -1,0 +1,8 @@
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\График\График\bin\Debug\График.exe
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\График\График\bin\Debug\График.pdb
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\График\График\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\График\График\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\График\График\obj\Debug\График.csproj.GenerateResource.Cache
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\График\График\obj\Debug\График.exe
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\График\График\obj\Debug\График.pdb
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\График\График\obj\Debug\WindowsFormsApplication1.Form1.resources
