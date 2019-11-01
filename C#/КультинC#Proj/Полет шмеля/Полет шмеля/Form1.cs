@@ -62,12 +62,12 @@ namespace WindowsFormsApplication1
             }
             g.DrawImage(bee, rct.X, rct.Y);
             if (!demo)
-                this.Invalidate(rct);
+                this.Invalidate(rct);//обновить рамку
             else 
             {
-                Rectangle reg = new Rectangle(20, 20, flower.Width - 40, flower.Height - 40);
+                Rectangle reg = new Rectangle(20, 20, flower.Width - 40, flower.Height - 40);//если обьект вне рамки то его видно не будет
                 g.DrawRectangle(Pens.Black, reg.X, reg.Y, reg.Width - 1, reg.Height - 1);
-                this.Invalidate(reg);
+                this.Invalidate(reg);//обновить рамку
             }
         }
     }
