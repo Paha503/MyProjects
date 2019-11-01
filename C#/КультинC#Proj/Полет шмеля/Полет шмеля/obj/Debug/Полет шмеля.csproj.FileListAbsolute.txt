@@ -1,0 +1,8 @@
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Полет шмеля\Полет шмеля\bin\Debug\Полет шмеля.exe
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Полет шмеля\Полет шмеля\bin\Debug\Полет шмеля.pdb
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Полет шмеля\Полет шмеля\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Полет шмеля\Полет шмеля\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Полет шмеля\Полет шмеля\obj\Debug\Полет шмеля.csproj.GenerateResource.Cache
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Полет шмеля\Полет шмеля\obj\Debug\Полет шмеля.exe
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Полет шмеля\Полет шмеля\obj\Debug\Полет шмеля.pdb
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Полет шмеля\Полет шмеля\obj\Debug\WindowsFormsApplication1.Form1.resources
