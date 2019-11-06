@@ -1,0 +1,10 @@
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Контакты\Контакты\bin\Release\Resources\Contacts.mdb
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Контакты\Контакты\bin\Release\Контакты.exe.config
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Контакты\Контакты\bin\Release\Контакты.exe
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Контакты\Контакты\bin\Release\Контакты.pdb
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Контакты\Контакты\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Контакты\Контакты\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Контакты\Контакты\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Контакты\Контакты\obj\Release\Контакты.csproj.GenerateResource.Cache
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Контакты\Контакты\obj\Release\Контакты.exe
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Контакты\Контакты\obj\Release\Контакты.pdb

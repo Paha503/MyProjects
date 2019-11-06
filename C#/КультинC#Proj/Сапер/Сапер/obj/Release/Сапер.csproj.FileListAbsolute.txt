@@ -1,0 +1,9 @@
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Сапер\Сапер\bin\Release\Сапер.exe
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Сапер\Сапер\bin\Release\Сапер.pdb
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Сапер\Сапер\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Сапер\Сапер\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Сапер\Сапер\obj\Release\WindowsFormsApplication1.Form2.resources
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Сапер\Сапер\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Сапер\Сапер\obj\Release\Сапер.csproj.GenerateResource.Cache
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Сапер\Сапер\obj\Release\Сапер.exe
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Сапер\Сапер\obj\Release\Сапер.pdb

@@ -1,0 +1,9 @@
+C:\Users\Паха\Desktop\Contacts_2\Contacts_2\bin\Debug\Contacts_2.exe.config
+C:\Users\Паха\Desktop\Contacts_2\Contacts_2\bin\Debug\Contacts_2.exe
+C:\Users\Паха\Desktop\Contacts_2\Contacts_2\bin\Debug\Contacts_2.pdb
+C:\Users\Паха\Desktop\Contacts_2\Contacts_2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Паха\Desktop\Contacts_2\Contacts_2\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Паха\Desktop\Contacts_2\Contacts_2\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Паха\Desktop\Contacts_2\Contacts_2\obj\Debug\Contacts_2.csproj.GenerateResource.Cache
+C:\Users\Паха\Desktop\Contacts_2\Contacts_2\obj\Debug\Contacts_2.exe
+C:\Users\Паха\Desktop\Contacts_2\Contacts_2\obj\Debug\Contacts_2.pdb

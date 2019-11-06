@@ -1,0 +1,9 @@
+C:\Users\Паха\Desktop\Contacts_2\Contacts_2\bin\Release\Contacts_2.exe.config
+C:\Users\Паха\Desktop\Contacts_2\Contacts_2\bin\Release\Contacts_2.exe
+C:\Users\Паха\Desktop\Contacts_2\Contacts_2\bin\Release\Contacts_2.pdb
+C:\Users\Паха\Desktop\Contacts_2\Contacts_2\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Паха\Desktop\Contacts_2\Contacts_2\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\Паха\Desktop\Contacts_2\Contacts_2\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Паха\Desktop\Contacts_2\Contacts_2\obj\Release\Contacts_2.csproj.GenerateResource.Cache
+C:\Users\Паха\Desktop\Contacts_2\Contacts_2\obj\Release\Contacts_2.exe
+C:\Users\Паха\Desktop\Contacts_2\Contacts_2\obj\Release\Contacts_2.pdb

@@ -1,0 +1,10 @@
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Контакты 3\Contacts_3\bin\Debug\Contacts_3.exe.config
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Контакты 3\Contacts_3\bin\Debug\Contacts.mdb
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Контакты 3\Contacts_3\bin\Debug\Contacts_3.exe
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Контакты 3\Contacts_3\bin\Debug\Contacts_3.pdb
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Контакты 3\Contacts_3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Контакты 3\Contacts_3\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Контакты 3\Contacts_3\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Контакты 3\Contacts_3\obj\Debug\Contacts_3.csproj.GenerateResource.Cache
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Контакты 3\Contacts_3\obj\Debug\Contacts_3.exe
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Контакты 3\Contacts_3\obj\Debug\Contacts_3.pdb

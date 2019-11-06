@@ -1,0 +1,14 @@
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Сапер\Сапер\bin\Debug\Сапер.exe
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Сапер\Сапер\bin\Debug\Сапер.pdb
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Сапер\Сапер\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Сапер\Сапер\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Сапер\Сапер\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Сапер\Сапер\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Сапер\Сапер\obj\Debug\Сапер.csproj.GenerateResource.Cache
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Сапер\Сапер\obj\Debug\Сапер.exe
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Сапер\Сапер\obj\Debug\Сапер.pdb
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Сапер\Сапер\bin\Debug\Interop.WMPLib.dll
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Сапер\Сапер\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Сапер\Сапер\obj\Debug\Interop.WMPLib.dll
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Сапер\Сапер\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Сапер\Сапер\obj\Debug\Сапер.csproj.ResolveComReference.cache
