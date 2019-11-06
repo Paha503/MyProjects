@@ -1,0 +1,8 @@
+C:\Users\Паха\Desktop\dblPic\dblPic\bin\Release\dblPic.exe
+C:\Users\Паха\Desktop\dblPic\dblPic\bin\Release\dblPic.pdb
+C:\Users\Паха\Desktop\dblPic\dblPic\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Паха\Desktop\dblPic\dblPic\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\Паха\Desktop\dblPic\dblPic\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Паха\Desktop\dblPic\dblPic\obj\Release\dblPic.csproj.GenerateResource.Cache
+C:\Users\Паха\Desktop\dblPic\dblPic\obj\Release\dblPic.exe
+C:\Users\Паха\Desktop\dblPic\dblPic\obj\Release\dblPic.pdb
