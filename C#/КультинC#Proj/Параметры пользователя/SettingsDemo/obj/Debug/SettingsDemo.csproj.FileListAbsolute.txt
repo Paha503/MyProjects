@@ -7,3 +7,6 @@ C:\Users\Pahan\Documents\SettingsDemo\SettingsDemo\obj\Debug\WindowsFormsApplica
 C:\Users\Pahan\Documents\SettingsDemo\SettingsDemo\obj\Debug\SettingsDemo.csproj.GenerateResource.Cache
 C:\Users\Pahan\Documents\SettingsDemo\SettingsDemo\obj\Debug\Параметры пользователя.exe
 C:\Users\Pahan\Documents\SettingsDemo\SettingsDemo\obj\Debug\Параметры пользователя.pdb
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Параметры пользователя\SettingsDemo\bin\Debug\Параметры пользователя.exe.config
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Параметры пользователя\SettingsDemo\obj\Debug\Параметры пользователя.exe
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Параметры пользователя\SettingsDemo\obj\Debug\Параметры пользователя.pdb
