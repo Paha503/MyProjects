@@ -1,0 +1,13 @@
+C:\Users\Паха\Desktop\saper\saper\bin\Release\saper.exe
+C:\Users\Паха\Desktop\saper\saper\bin\Release\saper.pdb
+C:\Users\Паха\Desktop\saper\saper\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Паха\Desktop\saper\saper\obj\Release\WindowsFormsApplication2.Form1.resources
+C:\Users\Паха\Desktop\saper\saper\obj\Release\WindowsFormsApplication2.Form2.resources
+C:\Users\Паха\Desktop\saper\saper\obj\Release\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Паха\Desktop\saper\saper\obj\Release\saper.csproj.GenerateResource.Cache
+C:\Users\Паха\Desktop\saper\saper\obj\Release\saper.exe
+C:\Users\Паха\Desktop\saper\saper\obj\Release\saper.pdb
+C:\Users\Паха\Desktop\saper\saper\bin\Release\saper.exe.manifest
+C:\Users\Паха\Desktop\saper\saper\bin\Release\saper.application
+C:\Users\Паха\Desktop\saper\saper\obj\Release\saper.exe.manifest
+C:\Users\Паха\Desktop\saper\saper\obj\Release\saper.application
