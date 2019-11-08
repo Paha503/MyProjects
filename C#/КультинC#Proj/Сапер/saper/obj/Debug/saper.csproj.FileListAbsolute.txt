@@ -7,3 +7,16 @@ C:\Users\Паха\Desktop\saper\saper\obj\Debug\WindowsFormsApplication2.Propert
 C:\Users\Паха\Desktop\saper\saper\obj\Debug\saper.csproj.GenerateResource.Cache
 C:\Users\Паха\Desktop\saper\saper\obj\Debug\saper.exe
 C:\Users\Паха\Desktop\saper\saper\obj\Debug\saper.pdb
+C:\Users\Админ\Documents\GitHub\MyProjects\C#\КультинC#Proj\Сапер\saper\bin\Debug\saper.exe.manifest
+C:\Users\Админ\Documents\GitHub\MyProjects\C#\КультинC#Proj\Сапер\saper\bin\Debug\saper.application
+C:\Users\Админ\Documents\GitHub\MyProjects\C#\КультинC#Proj\Сапер\saper\bin\Debug\saper.exe
+C:\Users\Админ\Documents\GitHub\MyProjects\C#\КультинC#Proj\Сапер\saper\bin\Debug\saper.pdb
+C:\Users\Админ\Documents\GitHub\MyProjects\C#\КультинC#Proj\Сапер\saper\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Админ\Documents\GitHub\MyProjects\C#\КультинC#Proj\Сапер\saper\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Админ\Documents\GitHub\MyProjects\C#\КультинC#Proj\Сапер\saper\obj\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\Админ\Documents\GitHub\MyProjects\C#\КультинC#Proj\Сапер\saper\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Админ\Documents\GitHub\MyProjects\C#\КультинC#Proj\Сапер\saper\obj\Debug\saper.csproj.GenerateResource.Cache
+C:\Users\Админ\Documents\GitHub\MyProjects\C#\КультинC#Proj\Сапер\saper\obj\Debug\saper.exe.manifest
+C:\Users\Админ\Documents\GitHub\MyProjects\C#\КультинC#Proj\Сапер\saper\obj\Debug\saper.application
+C:\Users\Админ\Documents\GitHub\MyProjects\C#\КультинC#Proj\Сапер\saper\obj\Debug\saper.exe
+C:\Users\Админ\Documents\GitHub\MyProjects\C#\КультинC#Proj\Сапер\saper\obj\Debug\saper.pdb

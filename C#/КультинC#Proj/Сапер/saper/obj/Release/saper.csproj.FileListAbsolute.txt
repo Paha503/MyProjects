@@ -11,3 +11,5 @@ C:\Users\Паха\Desktop\saper\saper\bin\Release\saper.exe.manifest
 C:\Users\Паха\Desktop\saper\saper\bin\Release\saper.application
 C:\Users\Паха\Desktop\saper\saper\obj\Release\saper.exe.manifest
 C:\Users\Паха\Desktop\saper\saper\obj\Release\saper.application
+C:\Users\Админ\Documents\GitHub\MyProjects\C#\КультинC#Proj\Сапер\saper\obj\Release\saper.exe
+C:\Users\Админ\Documents\GitHub\MyProjects\C#\КультинC#Proj\Сапер\saper\obj\Release\saper.pdb
