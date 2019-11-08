@@ -7,3 +7,12 @@ C:\Users\Паха\Desktop\dblPic\dblPic\obj\Debug\dblPic.csproj.GenerateResource
 C:\Users\Паха\Desktop\dblPic\dblPic\obj\Debug\dblPic.exe
 C:\Users\Паха\Desktop\dblPic\dblPic\obj\Debug\dblPic.pdb
 C:\Users\Паха\Desktop\dblPic\dblPic\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Парные картинки\dblPic\obj\Debug\dblPic.exe
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Парные картинки\dblPic\obj\Debug\dblPic.pdb
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Парные картинки\dblPic\bin\Debug\dblPic.exe
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Парные картинки\dblPic\bin\Debug\dblPic.pdb
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Парные картинки\dblPic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Парные картинки\dblPic\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Парные картинки\dblPic\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Парные картинки\dblPic\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Паха\Documents\GitHub\MyProjects\C#\КультинC#Proj\Парные картинки\dblPic\obj\Debug\dblPic.csproj.GenerateResource.Cache

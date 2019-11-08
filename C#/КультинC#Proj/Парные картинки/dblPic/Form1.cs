@@ -91,7 +91,7 @@ namespace WindowsFormsApplication1
         {
             for (int i = 0; i < nw; i++)
                 for (int j = 0; j < nh; j++)
-                    this.cell(i, j);
+                    this.cell(i, j);//Заполнить массив клетками
         }
 
         // новая игра
@@ -121,12 +121,12 @@ namespace WindowsFormsApplication1
 
                     field[i, j] = rndN;
                     buf[rndN - 1]++;
-                }
+                }//Заполнить массив разными клетками до тех пор пока они не закончатся
 
             nOpened = 0;
-            cOpened = 0;
+            cOpened = 0;//картинки закрыты
 
-            this.drawField();
+            this.drawField();//выполнить метод прорисовки
         }
 
         public Form1()
@@ -138,7 +138,7 @@ namespace WindowsFormsApplication1
                 // загружаем файл с картинками
                 pics = new Bitmap("pictures.bmp");
             }
-            catch (Exception exc)
+            catch (Exception exc)//ошибка доступа к файлу
             {
                 MessageBox.Show("Файл 'pictures.bmp' не найден.\n" +
                     exc.ToString(), "Парные картинки",
@@ -165,12 +165,12 @@ namespace WindowsFormsApplication1
             
             timer1 = new Timer();
 
-            timer1.Tick += new System.EventHandler(this.timer1_Tick);
+            timer1.Tick += new System.EventHandler(this.timer1_Tick);//создать таймер без добавления на форму
 
             //timer1.Enabled = false;
-            timer1.Interval = 200;
+            timer1.Interval = 200;//отклик каждые 0,2 секунды
            
-            newGame();
+            newGame();//выполнить метод newGame
         }
 
         // щелчок на игровом поле
@@ -181,8 +181,8 @@ namespace WindowsFormsApplication1
                          // соответствующего клетке, в кот.
                          // сделан щелчок
 
-                i = e.X / (cw +3);  
-                j = (e.Y - menuStrip1.Height) / (ch+3);
+                i = e.X / (cw +3); //кликаем по клеткам в i 
+                j = (e.Y - menuStrip1.Height) / (ch+3);//кликаем по клеткам в j
 
                 // если таймер работает, это значит что в данный 
                 // момент открыты две клеткаи, в которых находятся
@@ -197,7 +197,8 @@ namespace WindowsFormsApplication1
 
                 // щелчок на месте одной из двух уже найденных
                 // парных картинок
-                if (field[i, j] > 200) return;
+                if (field[i, j] > 200) 
+                    return;
 
                 // открытых клеток нет
                 if (cOpened == 0)
@@ -285,10 +286,10 @@ namespace WindowsFormsApplication1
         // команда Новая игра
         private void новаяИграToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            newGame();
+            newGame();//вызвать метод newGame
         }
 
-        // обработка события таймера
+        //отклик таймера
         private void timer1_Tick(object sender, System.EventArgs e)
         {
             // отрисовать клетки
@@ -298,7 +299,7 @@ namespace WindowsFormsApplication1
             // остановить таймер
             timer1.Enabled = false;
 
-            if (nOpened == np)
+            if (nOpened == np)//выйгрыш
             {
                 MessageBox.Show("Вы справились с поставленной задачей!");               
             }
